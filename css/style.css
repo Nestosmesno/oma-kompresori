@@ -1041,6 +1041,13 @@ h1, h2, h3, h4 {
 
 .hours-row:last-child { border-bottom: none; }
 
+.contact-map {
+  margin-top: 48px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
 /* ===== FORM ===== */
 .contact-form {
   background: var(--white);
