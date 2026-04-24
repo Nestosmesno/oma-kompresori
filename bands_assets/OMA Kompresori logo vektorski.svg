@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 500 560"
+   width="500"
+   height="560"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="OMA Kompresori logo vektorski.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4410714"
+     inkscape:cx="249.81413"
+     inkscape:cy="280"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs8">
+    <linearGradient
+       id="hexGrad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#5a5a5a;stop-opacity:1"
+         id="stop1" />
+      <stop
+         offset="50%"
+         style="stop-color:#3a3a3a;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="100%"
+         style="stop-color:#222222;stop-opacity:1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="iconGrad"
+       x1="0%"
+       y1="0%"
+       x2="60%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop4" />
+      <stop
+         offset="50%"
+         style="stop-color:#d0d0d0;stop-opacity:1"
+         id="stop5" />
+      <stop
+         offset="100%"
+         style="stop-color:#a0a0a0;stop-opacity:1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="gearGrad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#e0e0e0;stop-opacity:1"
+         id="stop7" />
+      <stop
+         offset="100%"
+         style="stop-color:#b0b0b0;stop-opacity:1"
+         id="stop8" />
+    </linearGradient>
+    <filter
+       id="shadow"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feDropShadow
+         dx="4"
+         dy="8"
+         stdDeviation="8"
+         flood-color="#000000"
+         flood-opacity="0.5" />
+    </filter>
+    <filter
+       id="shadowText"
+       x="-10%"
+       y="-10%"
+       width="120%"
+       height="130%">
+      <feDropShadow
+         dx="2"
+         dy="3"
+         stdDeviation="3"
+         flood-color="#000000"
+         flood-opacity="0.4" />
+    </filter>
+  </defs>
+  <!-- ===== HEXAGON SHAPE ===== -->
+  <polygon
+     points="250,32 362,97 362,227 250,292 138,227 138,97"
+     fill="#1a1a1a"
+     filter="url(#shadow)"
+     id="polygon8" />
+  <polygon
+     points="250,38 356,101 356,221 250,284 144,221 144,101"
+     fill="url(#hexGrad)"
+     id="polygon9" />
+  <polygon
+     points="250,48 346,107 346,215 250,274 154,215 154,107"
+     fill="none"
+     stroke="#555555"
+     stroke-width="2"
+     id="polygon10" />
+  <!-- ===== GEAR ===== -->
+  <g
+     transform="translate(250,161)"
+     fill="url(#gearGrad)"
+     id="g22">
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       id="rect10" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(30)"
+       id="rect11" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(60)"
+       id="rect12" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(90)"
+       id="rect13" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(120)"
+       id="rect14" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(150)"
+       id="rect15" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(180)"
+       id="rect16" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(210)"
+       id="rect17" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(240)"
+       id="rect18" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(270)"
+       id="rect19" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(300)"
+       id="rect20" />
+    <rect
+       x="-8"
+       y="-82"
+       width="16"
+       height="20"
+       rx="2"
+       transform="rotate(330)"
+       id="rect21" />
+    <circle
+       cx="0"
+       cy="0"
+       r="68"
+       fill="none"
+       stroke="url(#gearGrad)"
+       stroke-width="18"
+       id="circle21" />
+    <circle
+       cx="0"
+       cy="0"
+       r="30"
+       fill="#3a3a3a"
+       id="circle22" />
+  </g>
+  <!-- ===== PISTON + CONNECTING ROD ===== -->
+  <g
+     transform="translate(250,161) rotate(-45)"
+     id="g27">
+    <rect
+       x="-7"
+       y="-20"
+       width="14"
+       height="74"
+       rx="7"
+       fill="url(#iconGrad)"
+       id="rect22" />
+    <rect
+       x="-28"
+       y="-60"
+       width="56"
+       height="38"
+       rx="5"
+       fill="url(#iconGrad)"
+       id="rect23" />
+    <rect
+       x="-28"
+       y="-52"
+       width="56"
+       height="6"
+       rx="2"
+       fill="#909090"
+       id="rect24" />
+    <rect
+       x="-28"
+       y="-41"
+       width="56"
+       height="6"
+       rx="2"
+       fill="#909090"
+       id="rect25" />
+    <circle
+       cx="0"
+       cy="-22"
+       r="8"
+       fill="#3a3a3a"
+       stroke="url(#iconGrad)"
+       stroke-width="3"
+       id="circle25" />
+    <circle
+       cx="0"
+       cy="54"
+       r="18"
+       fill="none"
+       stroke="url(#iconGrad)"
+       stroke-width="9"
+       id="circle26" />
+    <circle
+       cx="0"
+       cy="54"
+       r="6"
+       fill="#3a3a3a"
+       id="circle27" />
+  </g>
+  <!-- ===== TEXT: OMA ===== -->
+  <!-- Outline sloj ispod (za vidljivost na bijeloj pozadini) -->
+  <!-- Glavni tekst -->
+  <text
+     x="250"
+     y="364"
+     font-family="'Arial Black', Impact, sans-serif"
+     font-size="100px"
+     font-weight="900"
+     text-anchor="middle"
+     fill="#c0522a"
+     letter-spacing="8"
+     id="text28"
+     style="stroke-width:1;stroke-dasharray:none">OMA</text>
+  <!-- ===== TEXT: KOMPRESORI ===== -->
+  <text
+     x="250"
+     y="400"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="600"
+     text-anchor="middle"
+     fill="#888888"
+     letter-spacing="10"
+     id="text30">KOMPRESORI</text>
+</svg>
