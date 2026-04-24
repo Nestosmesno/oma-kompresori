@@ -92,7 +92,8 @@ const sectionObserver = new IntersectionObserver((entries) => {
 sections.forEach(s => sectionObserver.observe(s));
 
 // ===== CONTACT FORM =====
-document.getElementById('contact-form').addEventListener('submit', function(e) {
+const contactForm = document.getElementById('contact-form');
+if (contactForm) contactForm.addEventListener('submit', function(e) {
   e.preventDefault();
   const btn = this.querySelector('button[type="submit"]');
   const originalText = btn.innerHTML;
