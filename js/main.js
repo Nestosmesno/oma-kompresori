@@ -1,6 +1,6 @@
-// ===== HERO SMOKE BACKGROUND (WebGL) =====
-(function () {
-  const canvas = document.getElementById('hero-smoke-canvas');
+// ===== SMOKE BACKGROUND (WebGL) =====
+function initSmokeBackground(canvasId) {
+  const canvas = document.getElementById(canvasId);
   if (!canvas) return;
   const gl = canvas.getContext('webgl2');
   if (!gl) return;
@@ -86,7 +86,10 @@ void main(){
   }
 
   requestAnimationFrame(render);
-})();
+}
+
+initSmokeBackground('hero-smoke-canvas');
+initSmokeBackground('page-header-smoke-canvas');
 
 // ===== NAVBAR SCROLL =====
 const navbar = document.getElementById('navbar');
