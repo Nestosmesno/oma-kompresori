@@ -184,6 +184,17 @@ const sectionObserver = new IntersectionObserver((entries) => {
 
 sections.forEach(s => sectionObserver.observe(s));
 
+// ===== ABOUT SLIDESHOW =====
+const aboutSlides = document.querySelectorAll('.about-slide');
+if (aboutSlides.length) {
+  let currentSlide = 0;
+  setInterval(() => {
+    aboutSlides[currentSlide].classList.remove('active');
+    currentSlide = (currentSlide + 1) % aboutSlides.length;
+    aboutSlides[currentSlide].classList.add('active');
+  }, 5000);
+}
+
 // ===== CONTACT FORM =====
 const contactForm = document.getElementById('contact-form');
 if (contactForm) contactForm.addEventListener('submit', function(e) {
